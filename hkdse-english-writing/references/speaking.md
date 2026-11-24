@@ -23,3 +23,19 @@ Answer the actual question in the first sentence. Give a reason and develop it w
 - For a Part B mock, ask one related question and wait. Give tailored feedback or ask a relevant follow-up if the learner requests further practice. A model answer can follow their attempt or be given on request.
 - In both parts, assess relevance, development, vocabulary and language, and organisation. For Part A, also check listening and interaction through observable replies and turn-taking. If audio is available, comment on intelligibility, pace, stress and pausing. If video is available, comment on observable nonverbal delivery. Text alone supports feedback on phrasing and the interaction recorded in the transcript.
 - Prioritise one improvement and give a retry prompt. Use a supplied rubric when asked for a score and label any estimate as practice feedback.
+
+## Interaction moves and individual question types
+
+| Move | Use | Original practice line |
+| --- | --- | --- |
+| Begin and focus | State what the group has to decide and offer a reasoned starting point. | “We need an activity we can run during lunch. I’d start with a demonstration because people can join without signing up.” |
+| Build or qualify | Refer to the previous idea, then add a consequence, condition, or trade-off. | “Your point about cost makes sense. Could we borrow the tools and use the budget for safety gloves?” |
+| Clarify or invite | Ask about a specific gap or ask a participant for a comparison they can answer. | “Would you run it every week, or treat it as a one-off trial?” |
+| Enter a crowded discussion | At a suitable pause, signal the point you want to add and keep it brief. | “Could I add something about supervision before we move on?” |
+| Redirect or summarise | Connect the tangent to the task, name an unresolved choice, or confirm what the group agreed. | “We seem to agree on a trial. We still need to decide who will supervise it.” |
+
+During preparation, jot one point and one reason or example for each prompt. Keep an additional comparison, a focused invitation, and a possible summary in reserve. Use keywords so you can listen and adapt. If time runs short, move to an uncovered item or summarise real agreement. There is no need to force an elaborate formal closing.
+
+For the individual response, recognise the question's job. A preference calls for a choice and criterion. A cause calls for an explanation of how it arises. A comparison needs a shared basis. A risk question needs a condition and, where relevant, mitigation. A recommendation needs a target audience and practical justification. Practise clarification when you cannot hear or understand a question and check procedural rules against the instructions for the session.
+
+For repeat practice, vary the stimulus among articles, reviews, announcements, posters, and short messages. Use questions that ask the group to plan, evaluate a proposal, solve a problem, or make a choice. Review visible or audible delivery through clear phrasing, volume, pausing, stress, pace, expression, and eye contact as the medium permits.

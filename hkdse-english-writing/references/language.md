@@ -44,3 +44,36 @@ Choose the form by time and by whether the situation is general, open, hypotheti
 For an edit or transformation, check that the new sentence keeps the original time and strength of the claim. Use *unless* when it means *if ... not* in context. In a formal rewrite, *Had we booked earlier* can replace *If we had booked earlier*.
 
 **Practice.** The organisers booked late and had to use a smaller room. Rewrite this as a past hypothetical. Sample answer. “If the organisers had booked earlier, they might have secured a larger room.” *Might have* keeps the outcome uncertain.
+
+## Grammar worksheet coverage
+
+### Parts of speech, clauses, and punctuation
+
+- Identify the function a word performs in the sentence. A noun can head a subject or object phrase, a pronoun can replace a phrase, and a verb can express an action, state, or link. Adjectives modify nouns or function as complements. Adverbs modify verbs, adjectives, adverbs, or clauses. Prepositions head phrases with complements, conjunctions connect units, determiners specify noun phrases, and interjections express reactions. The same spelling may serve more than one role.
+- Mark the main subject and finite verb before judging a sentence. Identify objects, subject and object complements, and optional or required adverbials. Compare subject–verb, subject–verb–object, subject–verb–complement, subject–verb–indirect object–direct object, and subject–verb–object–complement.
+- A simple sentence has one independent clause. A compound sentence coordinates independent clauses. A complex sentence includes a dependent clause. A compound-complex sentence combines coordination and subordination. Check fragments and fused clauses using the clause structure.
+- Use commas around non-essential material and where needed after fronted clauses. Use a full stop, a coordinating conjunction with suitable punctuation, or a semicolon between closely related independent clauses. A conjunctive adverb such as *however* needs an appropriate clause boundary. A colon can introduce an explanation or list after a complete clause. Use apostrophes for possession and contractions, and apply one consistent convention for quotations. Check dashes, brackets, hyphens, and ellipses according to their function.
+- For transitions, identify addition, example, sequence, cause, result, contrast, concession, comparison, restatement, or conclusion. *Although* introduces a dependent clause. *Despite* is followed by a noun phrase or gerund, or by *the fact that* plus a clause. *However* can connect ideas across a sentence boundary. *Therefore* gives a result. Use a connector only when it makes the relationship clearer.
+
+### Agreement and articles
+
+| Pattern | Diagnostic |
+| --- | --- |
+| Subject separated from verb | Ignore intervening modifiers and find the head. “The list of rooms is on the board.” |
+| Joined subjects | *And* usually takes plural agreement. A single person or combined concept can be singular. With *either … or*, *neither … nor*, and similar constructions, proximity often guides agreement. Recast awkward combinations. |
+| Add-on phrases | Phrases with *as well as*, *together with*, or *including* leave the main subject in control. |
+| Indefinites and amounts | *Each*, *every*, *many a*, and *more than one* generally take singular agreement. A sum, duration, or measurement can be singular when understood as one amount. With *none of*, consider the meaning and head noun. |
+| Collective and special nouns | British usage may distinguish a unit from its members. *Police* takes a plural verb. *News* takes a singular verb. Check the meaning of ambiguous nouns and the number of the real subject in *there is/are*. |
+| A/an | Use with an indefinite singular count noun. Choose by initial sound (*a university*, *an hour*). |
+| The | Use for an identifiable referent, including previous mention, shared context, uniqueness, or a phrase that identifies it. |
+| Zero article | Common with plural count nouns or uncountables used generically, many proper names, and some institutional expressions. Check conventional exceptions, including names with *the*. |
+
+### Verb complementation
+
+- Identify the sense first. An intransitive verb lacks a direct object. A transitive verb takes one. A ditransitive frame can express a recipient and a thing transferred. A linking verb takes a complement. Some verbs change frame with meaning. “The shop opens at nine” and “Maya opens the shop” are both grammatical.
+- Distinguish a required preposition from a direct object. Compare *discuss the plan*, *talk about the plan*, *attend the meeting*, *listen to the speaker*, and *arrive at the venue*. A passive usually requires a suitable object in the active construction.
+- Learn complements as patterns. Use gerunds after verbs such as *avoid*, *enjoy*, *finish*, *consider*, *practise*, *risk*, *suggest*, and *mind*, and after prepositions. Check *look forward to meeting*, *be used to working*, *object to paying*, and *with a view to improving*. A *to* that takes a noun phrase can be a preposition.
+- Use a bare infinitive after central modals and after *do/does/did*. Common structures include *let/make/have someone do*, *had better do*, and *would rather do*. With perception verbs, a bare infinitive can present a complete event and an -ing form an ongoing event. Compare active *they made him wait* with passive *he was made to wait*.
+- Distinguish meaning changes. *Stop talking* ends talking. *Stop to talk* interrupts another activity in order to talk. *Remember signing* recalls an event, while *remember to sign* means carrying out a reminder. *Try changing* tests a method, while *try to change* describes an effort. *Regret saying* looks back, while *regret to say* introduces unwelcome news. *Needs repairing* means needs to be repaired. Also compare *forget -ing/to do*, *go swimming/go to swim*, *learn a skill/learn to do something*, and *like doing/like to do*. Overlap is possible with *like*.
+
+For a detailed transformation, use [sentence patterns](sentence-patterns.md). For exact worksheet exercises, use [the source index](source-index.md).

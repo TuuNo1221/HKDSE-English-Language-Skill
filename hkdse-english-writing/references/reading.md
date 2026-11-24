@@ -33,3 +33,14 @@ Original practice extract. “The library extended its hours on Fridays. The lib
 - **“Why does the librarian call it a lifeline?”** The extended hours give students without a quiet place to work somewhere to study for longer. In context, *lifeline* describes the practical support the change provides.
 
 For practice, create an original passage and questions with enough textual evidence to distinguish each answer from plausible distractors. Keep the key separate, or reveal answers one at a time during a drill.
+
+## Work through a question set
+
+- Locate evidence before selecting from closely worded options. For each rejected option, identify the changed detail, reversed relationship, unsupported inference, or overly broad claim.
+- For source-word retrieval, record the search range, word class, and whether the question asks for an equivalent or an opposite. For interpretation, temporarily bracket the expression mentally, work out the surrounding situation, then test the inferred meaning in the complete sentence. A why-question can require a distinct causal step after the interpretation.
+- For proofreading, compare meaningful chunks with the passage. Identify the smallest offending unit and obey the exact replacement and marking instructions. For cloze, predict word class, match the source idea, then check the whole completed clause.
+- Track references and voices on a separate pass in dialogue or opinion pieces. For attribution, test the proposed speaker against their earlier remarks, access to information, and attitude. For a pronoun, try a noun, clause, or previously mentioned situation.
+- For title and purpose questions, write a short answer before checking the options. Identify whether a paragraph introduces, illustrates, qualifies, contrasts, or concludes. For tone, name the attitude and what it is directed at. A striking word is a clue to check against the surrounding sentences.
+- For open responses, use the question word to decide what to supply. Give a cause for *why*, a method or mechanism for *how*, and paired features for a comparison. When asked to explain a metaphor, state what quality transfers from the image to the subject. When asked about irony, state the expectation and what actually happens.
+
+For word-building, confused forms, and contextual substitution drills, use [word study](word-study.md).

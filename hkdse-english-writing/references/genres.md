@@ -38,3 +38,30 @@ Use rhetorical questions, parallel lists, a brief anecdote, or direct address on
 | Explain the payoff | so that / by + -ing | Record yourself so that you can spot where you need a pause. |
 
 Use stronger modals for real obligations or urgent concerns. For sensitive situations, acknowledge what the reader is dealing with before offering advice.
+
+## Planning and development from the notes
+
+The notes use three prompt features to decide what to write. The **situation** sets vocabulary and register, the **text type** sets structure and conventions, and the **sub-questions** set content coverage. Make a coverage map with one row per required point. For Part B prompt selection, sketch the strongest evidence and genre fit for each plausible choice before committing.
+
+**Openings.** Choose only the background the reader needs. Options include setting, immediate situation, a trend, a representative case, a definition, or a broader phenomenon. After that, establish the purpose, stance, or central question. In a solicited reply, acknowledge the original request before explaining what this reply will do.
+
+**Body.** The notes expand PEEL as Point, Elaboration, Evidence, Link. Ask who, what, when, where, why, and how selectively. A body paragraph can explain a claim through a cause, benefit, drawback, impact, or method. A story develops through actions and consequences. A practical report groups factual details under meaningful sections.
+
+**Evidence and persuasion.** MIINAH groups made-up data, idioms, icons, news, authority, and history. The data category is suitable only for explicitly invented scenarios where the prompt permits it. Label hypothetical data as such, and give the real source for a real figure or quotation. An idiom can make a point memorable. The evidence is the event, mechanism, or observation that supports it. For real articles, public figures, talks, organisations, or events, keep the claim narrow and verifiable. Personal experience can illustrate an individual effect when the role and genre support it. It has limited weight as evidence for a general claim.
+
+**Rebuttal.** The notes use OTPEEL for an opposition claim, a pivot or response, and a developed point. State the objection in a form its supporter would accept. Acknowledge its strongest element, then explain which assumption fails or how the proposal can answer the concern. Give a concrete example and reconnect to the motion. Use a rebuttal where it advances the argument, including after establishing the main position.
+
+**Endings.** Choose a next step, recommendation, prediction, implication, hope, or reflection that follows from the text. An editor letter can make an actionable request and explain the likely consequence of delay. Advice can close with encouragement and a follow-up invitation. A witness report can end at the final observation.
+
+## Genre decisions that commonly affect draft quality
+
+- **Advice and suggestions.** Acknowledge the issue without assuming the friend's exact feelings. Give an action, an achievable first step, and a reason it could help. Match force to urgency. Use a first-name sign-off or prompt-specified identity.
+- **Complaint and adjustment.** A complaint establishes the transaction or incident, then gives factual problems, effects, and the requested remedy. A reply acknowledges the inconvenience, explains each relevant issue, and states what the organisation can do and when.
+- **Proposal and report.** A proposal describes need, actions, resources or responsibilities, feasibility, and the decision requested. A survey report separates method, findings, interpretation, and recommendations where relevant. Preserve denominators and uncertainty where the data supplies them.
+- **Discursive and argumentative writing.** A discursive piece gives each relevant view a fair account and compares it on consistent grounds. An opinion piece develops a position with reasons. For problem and solution tasks, connect each action to a cause or impact and identify who could implement it.
+- **Headlines and bylines.** Compose the title after identifying the angle. A short noun phrase, question, verb phrase, or paired title and subtitle can work. Use a byline when the task and genre call for one. A report title prioritises retrieval, while a feature title can invite interest.
+- **Narrative and descriptive writing.** Establish setting and viewpoint, introduce a conflict, raise the stakes, and resolve or deliberately leave the central tension open. Characterise through actions, dialogue, and what other people notice. Use sensory details and precise verbs to direct attention. Choose a chronological opening, action in progress, dialogue, a description, or a signposted flashback. Keep tense and viewpoint consistent. Distinguish first person, third-person limited, and an omniscient narrator.
+- **News, review, and editorial.** News leads with the most important verified event and attributes information. Reviews give only enough synopsis to support evaluation, then judge specific features and identify a suitable audience. Editorials establish the publication's stance and support a recommendation.
+- **Public and promotional texts.** Use concrete benefits, readable layout, and a clear action. A well-placed question, contrast, list of three, anecdote, imperative, alliteration, or repetition can make an argument easier to follow. Match rhetorical strength to genre and audience.
+
+For detail on prose techniques, use [writing craft](writing-craft.md).

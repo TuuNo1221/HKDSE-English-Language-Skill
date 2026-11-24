@@ -6,7 +6,7 @@ An [Agent Skill](https://agentskills.io/specification) for Hong Kong Diploma of 
 | --- | --- |
 | 1 Reading | Passage analysis, question strategies, worked answers |
 | 2 Writing | Guided and extended compositions, genre guidance, and draft feedback |
-| 3 Listening and Integrated Skills | Integrated writing from a data file and listening input |
+| 3 Listening and Integrated Skills | Listening strategies and integrated writing from a data file and listening input |
 | 4 Speaking | Group interaction, individual responses, and mock practice |
 
 ## Install and use
@@ -24,6 +24,12 @@ Try these prompts.
 - “Review my Part B speech for content, language, and organisation. Show the three edits I should make first.”
 - “For this Paper 3 task, map the email requirements to my data file and listening notes, then draft the email.”
 - “Run a Paper 4 group discussion mock. Play two other candidates and wait for my reply each turn.”
+
+## Detailed references
+
+- [Paper 1 reading](hkdse-english-writing/references/reading.md), [Paper 2 genres](hkdse-english-writing/references/genres.md), [Paper 3 listening and integrated writing](hkdse-english-writing/references/integrated-writing.md), and [Paper 4 speaking](hkdse-english-writing/references/speaking.md).
+- [Sentence patterns B1–B32 and A1–A33](hkdse-english-writing/references/sentence-patterns.md), [grammar and revision](hkdse-english-writing/references/language.md), [word study](hkdse-english-writing/references/word-study.md), and [writing craft](hkdse-english-writing/references/writing-craft.md).
+- The [source index](hkdse-english-writing/references/source-index.md) maps all 40 handouts to the relevant guidance. To use exact original exercises, extract your own PDFs into `source-notes/` inside the skill folder. A local full-notes package can use that same layout. The public repository contains the skill, source index, and original teaching examples.
 
 ## Sources
 
