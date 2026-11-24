@@ -1,17 +1,25 @@
 ---
 name: hkdse-english-writing
-description: Plan, draft, revise, and give feedback on HKDSE English Language writing. Use for Paper 2 Part A guided writing, Part B extended composition, genre and register practice, DSE writing drills, and Paper 3 integrated writing based on a data file or listening notes. Covers essays, letters, advice, articles, speeches, proposals, reports, reviews, and narratives.
+description: Tutor HKDSE English Language. Use for Paper 1 reading comprehension and passage analysis, Paper 2 writing plans, drafts and feedback, Paper 3 integrated writing from a data file or listening notes, and Paper 4 speaking practice, group discussion and individual responses.
 ---
 
-# HKDSE English writing
+# HKDSE English Language
 
-## Identify the task
+Use the paper named by the user or infer it from the task. When a request spans papers, apply the relevant workflows to each deliverable. Use the supplied paper's instructions and any supplied marking guide.
+
+## Paper 1 reading
+
+Use [reading guidance](references/reading.md) to map the passage, locate evidence, and solve the specific question type. Return answers in the required form. For tutoring, explain the textual clue and how it supports the answer. Request the passage or missing exhibit when it is necessary.
+
+## Paper 2 writing
+
+### Identify the task
 
 - Extract the writer's role, audience, situation, purpose, text type, and every required content point. Split prompts such as “explain the problems and propose solutions” into distinct obligations. Preserve supplied details and any opening, closing, or layout the prompt gives.
 - Use the year and word guidance on the supplied paper. For 2027 practice without a paper, use roughly 200 words for Paper 2 Part A and 400 for Part B. Part A is guided and Part B offers a choice of one of four tasks. [HKEAA 2027 framework](https://www.hkeaa.edu.hk/DocLibrary/HKDSE/Subject_Information/eng_lang/2027hkdse-e-elang.pdf)
 - If the user gives a draft without the question, assess what the draft itself supports and say which task requirements need the original prompt. If the user asks for practice without supplying a question, create an original one and label it as practice.
 
-## Plan or draft
+### Plan or draft
 
 1. Map each required point to a paragraph or section. Group related details and put the strongest reason or most practical advice where the reader needs it. When choosing among Part B prompts, favour the one with clear coverage, a workable register, and concrete supporting ideas.
 2. Choose the opening, organisation, and ending using [genre guidance](references/genres.md). Select only the conventions that suit the audience and prompt. A school assembly speech should sound natural aloud and a report should let a reader find the findings quickly.
@@ -19,7 +27,7 @@ description: Plan, draft, revise, and give feedback on HKDSE English Language wr
 4. Use prompt facts, verified examples when available, or clearly hypothetical scenarios. Attribute real claims accurately. Avoid invented surveys, statistics, expert quotations, and authorities presented as real. For fictional exam scenarios, invent only details consistent with the prompt and genre.
 5. Adopt the writer's voice and an audience-appropriate register. Use precise verbs and topic vocabulary. Check coverage, genre cues, continuity, language accuracy, and length before delivering. For a model answer, return the composition first and put any requested commentary outside it.
 
-## Review or coach
+### Review or coach
 
 - **Content:** Check all requirements against the prompt, assess relevance and development, and identify where examples need explanation. For a missing point, name the exact requirement and suggest where to address it.
 - **Language:** Check tone, word choice, grammatical control, and sentence boundaries. Quote a short excerpt, suggest a focused correction, and explain the effect or rule. Use [language and revision guidance](references/language.md) for recurring errors and drills.
@@ -29,3 +37,7 @@ description: Plan, draft, revise, and give feedback on HKDSE English Language wr
 ## Paper 3 integrated writing
 
 For Paper 3 tasks, use [integrated writing guidance](references/integrated-writing.md) to map each deliverable to the data file and listening input. Flag unavailable evidence when working from a partial source pack. Use the same genre and language checks after assembling the source-backed content.
+
+## Paper 4 speaking
+
+Use [speaking guidance](references/speaking.md) for group interaction, individual responses, and mock practice. In a mock, give one turn or question at a time and let the learner respond before coaching. Give feedback only on features the supplied medium lets you assess.

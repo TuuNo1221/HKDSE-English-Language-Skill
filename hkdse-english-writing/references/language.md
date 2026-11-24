@@ -21,3 +21,11 @@ Edit in this order unless the user requests a narrower pass.
 Use time markers, pronouns with clear antecedents, and repeated key terms when they improve continuity. Keep formal requests courteous and direct, informal replies friendly, and speech sentences easy to say aloud. Use complex constructions when they express a genuine relation such as cause, condition, or concession.
 
 For practice, select an error from the student's draft, explain the rule briefly, then give a targeted item that uses a different topic. Ask for a correction or a fresh sentence. If the user asks for a worksheet, put the answer key after the exercises.
+
+## Sentence-pattern drills
+
+Choose a pattern by meaning. Use *although* to concede a point, *so that* to show purpose, or *so ... that* to show a result. Keep the actor clear in reduced clauses, and preserve tense, agency, emphasis and certainty when rewriting.
+
+- **Concession.** Combine “The hall is small. It can hold a lunchtime workshop.” Sample answer. “Although the hall is small, it can hold a lunchtime workshop.”
+- **Purpose.** Combine “We posted a room map. First-time visitors would be able to find us.” Sample answer. “We posted a room map so that first-time visitors could find us.”
+- **Advice.** Fix “I suggest you to book a place early.” Sample answer. “I suggest booking a place early,” or “I suggest that you book a place early.” Use “I advise you to book a place early” when practising the object-plus-infinitive pattern.
