@@ -27,4 +27,4 @@ Try these prompts.
 
 ## Sources
 
-The skill adapts classroom notes on passage decoding and comprehension, writing formats, advice and persuasion, sentence patterns, integrated writing, and speaking. The repository contains rewritten guidance and original examples. Exam-format details use the [HKEAA 2027 English Language Assessment Framework](https://www.hkeaa.edu.hk/DocLibrary/HKDSE/Subject_Information/eng_lang/2027hkdse-e-elang.pdf). Use the instructions on the paper you are practising with.
+The skill is based on the complete `ENG notes.zip` classroom archive. It adapts notes on passage decoding and comprehension, writing formats, advice and persuasion, sentence patterns, integrated writing, and speaking. The repository contains rewritten guidance and original examples. Exam-format details use the [HKEAA 2027 English Language Assessment Framework](https://www.hkeaa.edu.hk/DocLibrary/HKDSE/Subject_Information/eng_lang/2027hkdse-e-elang.pdf). Use the instructions on the paper you are practising with.

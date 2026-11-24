@@ -29,3 +29,18 @@ Choose a pattern by meaning. Use *although* to concede a point, *so that* to sho
 - **Concession.** Combine “The hall is small. It can hold a lunchtime workshop.” Sample answer. “Although the hall is small, it can hold a lunchtime workshop.”
 - **Purpose.** Combine “We posted a room map. First-time visitors would be able to find us.” Sample answer. “We posted a room map so that first-time visitors could find us.”
 - **Advice.** Fix “I suggest you to book a place early.” Sample answer. “I suggest booking a place early,” or “I suggest that you book a place early.” Use “I advise you to book a place early” when practising the object-plus-infinitive pattern.
+
+## Conditionals
+
+Choose the form by time and by whether the situation is general, open, hypothetical, or already past.
+
+| Meaning | Pattern | Original example |
+| --- | --- | --- |
+| General rule or recurring effect | if/when + present, present | If the library reaches capacity, staff open the study room. |
+| Open future possibility | if + present, will/can/may + base verb | If enough students apply, we may run a second session. |
+| Imagined present or future | if + past form, would/could/might + base verb | If the hall were larger, we could invite both year groups. |
+| Imagined alternative to a past event | if + past perfect, would/could/might have + past participle | If we had booked earlier, we could have used the hall. |
+
+For an edit or transformation, check that the new sentence keeps the original time and strength of the claim. Use *unless* when it means *if ... not* in context. In a formal rewrite, *Had we booked earlier* can replace *If we had booked earlier*.
+
+**Practice.** The organisers booked late and had to use a smaller room. Rewrite this as a past hypothetical. Sample answer. “If the organisers had booked earlier, they might have secured a larger room.” *Might have* keeps the outcome uncertain.
