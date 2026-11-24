@@ -1,9 +1,9 @@
 ---
-name: hkdse-english-writing
+name: hkdse-english-language-skill
 description: Tutor HKDSE English Language. Use for Paper 1 reading comprehension and passage analysis, Paper 2 writing plans, drafts and feedback, Paper 3 listening and integrated writing from recordings or a data file, Paper 4 group discussion and individual responses, and HKDSE grammar, vocabulary and sentence-pattern drills.
 ---
 
-# HKDSE English Language
+# HKDSE-English-Language-Skill
 
 Use the paper named by the user or infer it from the task. When a request spans papers, apply the relevant workflows to each deliverable. Use the supplied paper's instructions and any supplied marking guide.
 
